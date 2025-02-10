@@ -6,6 +6,7 @@ The Expense Tracker App is a full-stack application designed to track, manage, a
 By building this project, you will develop hands-on experience in backend development, database management, and frontend UI design.
 
 ✨ Key Features
+
 🚀 1. Expense Management
 Users can log expenses with amount, category, date, and notes.
 Supports multiple categories such as food, rent, shopping, and entertainment.
